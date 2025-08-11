@@ -1,7 +1,8 @@
 module("jazz", package.seeall)
 
 GAME_VERSION = 2.0
-MAIN_ADDON = "1452613192"
+--MAIN_ADDON = "1452613192" CG EDIT REMOVAL: fixes addon not downloading correct one
+MAIN_ADDON = "3546889803" -- CG ADDITION: fixes addon not downloading correct one
 
 WORKSHOP_IDS = WORKSHOP_IDS or
 {
