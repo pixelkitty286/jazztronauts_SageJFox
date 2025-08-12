@@ -1,5 +1,0 @@
-particles_manifest
-{
-	"file"		"!particles/jazztronauts_particles.pcf"
-	"file"		"!particles/jazztronauts_kp.pcf"
-}
